@@ -25,4 +25,5 @@ printf "\e[1;93m                   |                     |\e[0m\n"
 printf "\e[1;93m                   |                     |\e[0m\n"
 printf "\e[1;93m                   |                     | \e[0m\n"
 printf " \e[0m\n"
+figlet AMIR | lolcat
 fish
